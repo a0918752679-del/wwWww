@@ -1,0 +1,57 @@
+{
+  "users": [],
+  "products": [
+    {
+      "id": "prd_bx01starter",
+      "title": "BX-01 戰鬥陀螺入門組",
+      "category": "戰鬥陀螺",
+      "price": 390,
+      "stock": 18,
+      "status": "active",
+      "imageUrl": "/assets/products/bx01.svg",
+      "description": "適合新玩家入門，內含主體與發射器。",
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z"
+    },
+    {
+      "id": "prd_bx40rare",
+      "title": "BX-40 稀有攻擊型套組",
+      "category": "稀有款",
+      "price": 880,
+      "stock": 6,
+      "status": "active",
+      "imageUrl": "/assets/products/bx40.svg",
+      "description": "活動主打款，庫存較少，適合作為高價賞品或直購商品。",
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z"
+    },
+    {
+      "id": "prd_launcher",
+      "title": "官方發射器升級款",
+      "category": "配件",
+      "price": 260,
+      "stock": 25,
+      "status": "active",
+      "imageUrl": "/assets/products/launcher.svg",
+      "description": "可作為搭配購買商品，提高客單價。",
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z"
+    },
+    {
+      "id": "prd_arena",
+      "title": "競技戰鬥盤",
+      "category": "戰鬥盤",
+      "price": 690,
+      "stock": 0,
+      "status": "soldout",
+      "imageUrl": "/assets/products/arena.svg",
+      "description": "目前售完，後台補庫存後可重新上架。",
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "updatedAt": "2026-07-01T00:00:00.000Z"
+    }
+  ],
+  "orders": [],
+  "payments": [],
+  "accounting": [],
+  "logs": []
+}
