@@ -1,0 +1,4 @@
+{
+  "buildCommand": "npm install --omit=dev --ignore-scripts",
+  "startCommand": "npm start"
+}
