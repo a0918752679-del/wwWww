@@ -1,0 +1,23 @@
+{
+  "name": "ww-beyblade-kuji",
+  "version": "7.0.1",
+  "description": "萬萬沒想到｜戰鬥陀螺線上一番賞 V7 - LINE/Google/自主會員登入、銀行匯款、後台上下架管理、Zeabur ready",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "sync-richmenu": "node scripts/sync-richmenu.js",
+    "delete-richmenu": "node scripts/delete-richmenu.js"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
