@@ -1,9 +1,0 @@
-{
-  "name": "WW Beyblade V8 Main Rich Menu",
-  "size": { "width": 2500, "height": 843 },
-  "areas": [
-    { "label": "立即刮刮樂", "bounds": { "x": 0, "y": 420, "width": 833, "height": 423 }, "action": "uri", "target": "/#shop" },
-    { "label": "最新賠率", "bounds": { "x": 833, "y": 420, "width": 834, "height": 423 }, "action": "uri", "target": "/#odds" },
-    { "label": "最新活動", "bounds": { "x": 1667, "y": 420, "width": 833, "height": 423 }, "action": "uri", "target": "/#events" }
-  ]
-}
